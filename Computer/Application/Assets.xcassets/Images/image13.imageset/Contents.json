@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ANIMAL-WELLFARE.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ANIMAL-WELLFARE@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ANIMAL-WELLFARE@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
